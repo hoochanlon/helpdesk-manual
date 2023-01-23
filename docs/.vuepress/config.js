@@ -39,6 +39,7 @@ module.exports = {
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
                   ['/express/star/cx','电脑硬件思维导图与软件程序采集'],
+                  ['/express/star/cxpj','电脑程序软件被破解原因说明'],
                   ['/express/zd/qyzz.md','企业组装主机测试'],
                   ['/express/zd/cz.md','主机系统重装与硬件组装'],
                   ['/express/zd/printer','典型打印机使用安装及调试'],
