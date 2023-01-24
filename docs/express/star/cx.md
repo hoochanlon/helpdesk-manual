@@ -24,3 +24,13 @@ Awesome-Windows的Contributor多数国内外软件工程师与爱好者自发贡
 同时，你也可以提交你自己的独到见解或优化改善，大家一起共同完善！
 
 [![rm74w6.png](https://s3.ax1x.com/2020/12/14/rm74w6.png)](https://imgchr.com/i/rm74w6)
+
+## 维修与办公工具推荐
+
+软件工具箱，众多软件轻量化的缝合怪。各类常用的小功能集于一身。
+
+* [图拉丁工具箱](http://www.tbtool.cn)与[cloudbox](https://www.ittel.cn/archives/6817.html)
+* [Lenovo Quick Fix 联想智能解决工具](https://iknow.lenovo.com.cn/detail/kd_26394.html)
+* [超级管理器](https://www.onlinedown.net/soft/1229623.htm)
+* [我的ABC工具箱](https://www.ylmfu.com/soft/html/66216.html)
+* [批量办公工具箱，批量打印文档](https://www.bilibili.com/video/BV1344y1s7st)
