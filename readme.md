@@ -18,7 +18,7 @@
 
 <div align="center">
 
- 💗 [小鱼儿yr系统](https://www.yrxitong.com)、[apphot 烈火](https://apphot.cc)、[大眼仔旭](http://www.dayanzai.me)、[系统总裁](https://www.sysceo.com/Software/)、[联想知识库](https://iknow.lenovo.com.cn/detail/kd_26394.html)
+ 💗 [小鱼儿yr系统](https://www.yrxitong.com)、[apphot 烈火](https://apphot.cc)、[大眼仔旭](http://www.dayanzai.me)、[西西软件园](https://www.cr173.com)、[系统总裁](https://www.sysceo.com/Software/)、[联想知识库](https://iknow.lenovo.com.cn/detail/kd_26394.html)
 
 </div>
 
