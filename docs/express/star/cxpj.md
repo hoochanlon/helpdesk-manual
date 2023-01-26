@@ -33,7 +33,7 @@
 
 ## 学习版的实验田
 
-### winrar与revo
+### winrar与idm等软件激活方式文本链
 
 我们平常看到的winrar，实际上是国区代理的，国际网是这个：https://www.rarlab.com 。
 
