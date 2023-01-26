@@ -35,7 +35,14 @@
 
 ### winrar与revo
 
-我们平常看到的winrar，实际上是国区代理的，国际网是这个：https://www.rarlab.com 。[知乎专栏-教你一招，轻松激活Winrar](https://zhuanlan.zhihu.com/p/78429874)、[B站-Revo Uninstaller Pro专业卸载软件永久免费使用（可更新）](https://www.bilibili.com/video/BV13x4y1G7Qc)的激活方式和上述相差无几。
+我们平常看到的winrar，实际上是国区代理的，国际网是这个：https://www.rarlab.com 。
+
+* [知乎专栏-教你一招，轻松激活Winrar](https://zhuanlan.zhihu.com/p/78429874)
+* [B站-Revo Uninstaller Pro专业卸载软件永久免费使用（可更新）](https://www.bilibili.com/video/BV13x4y1G7Qc)
+* [Process Lasso Pro老机器的系统优化工具（绿色便携版）](https://www.ghxi.com/processlasso.html/comment-page-2)
+* [Internet Download Manager:IDM 6.4破解版](http://www.runker.net/idm.html)
+
+上述的软件激活方式其实和我们之前所述的相关原理基本上都差不多。
 
 ### Windows/Office激活说明
 
