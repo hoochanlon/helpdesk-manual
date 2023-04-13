@@ -6,6 +6,10 @@
 
 :::
 
+有时USB接入鼠标能有亮灯，但接入键盘，以及手机充电线测试却没有反应，清理bios以及cmos便可。
+
+![](https://cdn.jsdelivr.net/gh/hoochanlon/ihs-simple/AQUICK/IMG_6148.png)
+
 主板平台决定了，CPU、内存条、显卡的配置，根据主板的规格选择相兼容的CPU、内存条、显卡，一般都会写在产品说明的。主机主板放置在垫纸板上，起到保护主板粘入桌面上的其他杂质，减少静电等。内存条先安装按压插紧到位，然后压进金属卡扣。
 
 ![share.jpg](https://i.loli.net/2021/01/13/AqN2Lg4h75RCUYF.jpg)
