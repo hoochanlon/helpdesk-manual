@@ -24,11 +24,10 @@ burn in test软件用于检测老化，检测组装拼接的主机是否存在�
 
 ![](https://i.loli.net/2021/01/13/67mJnAuf3qMtxhD.png)
 
-
 > 参考 
 > [系统城-内存条1.35v和1.5v区别在哪里 内存条1.35v和1.5v的区别是什么](http://www.xitongcheng.com/jiaocheng/dnrj_article_66205.html)
 
-新主板不支持1.5V电压，用这个CPU-Z检测是颇为有效的方法。
+新主板不支持1.5V电压，用这个CPU-Z检测是颇为有效的方法（图吧工具箱更好）。
 
 ![](https://i.loli.net/2021/01/13/vJkh7t8nVfHI2eK.png)
 
