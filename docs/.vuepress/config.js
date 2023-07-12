@@ -1,6 +1,6 @@
 module.exports = {
-    title: '《企业网络与主机运维实录》',
-    description: '系统主机故障解决与信息安全自动化运维方案。',
+    title: '《企业基础信息化运维分析实录》',
+    description: '系统主机及网络故障综合处理与信息安全自动化运维方案。',
     base: '/helpdesk-guide/', //项目文件夹设置目录
     head:[
       ['link', {rel:'icon', href:'favicon.ico'}]
