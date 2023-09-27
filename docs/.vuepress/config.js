@@ -22,11 +22,11 @@ module.exports = {
     ],
     themeConfig: {
       repo: 'https://github.com/hoochanlon/helpdesk-guide/',
-      search: true,
+      search: false,
       algolia: {
-        appId: Q680O8BRDI,
-        apiKey: f04165accbaa5767283d0416f0ac63a2,
-        indexName: helpdesk-guide,
+        appId: 'Q680O8BRDI',
+        apiKey: 'f04165accbaa5767283d0416f0ac63a2',
+        indexName: 'helpdesk-guide',
       },
       nav: [
         // { text: '跳转首页', link: '/' },
