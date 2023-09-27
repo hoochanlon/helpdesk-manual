@@ -30,7 +30,7 @@ module.exports = {
       },
       nav: [
         // { text: '跳转首页', link: '/' },
-        { text: '本作品采用by-nc4.0知识协议进行许可', link: 'http://creativecommons.org/licenses/by-nc/4.0/' },
+        { text: 'CC-BY-NC 4.0', link: 'http://creativecommons.org/licenses/by-nc/4.0/' },
       ],
       editLinks: false,
       // 自定义编辑链接的文本。默认是 "Edit this page"
