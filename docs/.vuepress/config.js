@@ -22,7 +22,9 @@ module.exports = {
     ],
     themeConfig: {
       repo: 'https://github.com/hoochanlon/helpdesk-guide/',
-     // search: false,
+      // search: false,
+      // https://blog.csdn.net/weixin_44495599/article/details/132022146
+      // https://baijiahao.baidu.com/s?id=1757414171117173845
       algolia: {
         appId: 'Q680O8BRDI',
         apiKey: 'f04165accbaa5767283d0416f0ac63a2',
